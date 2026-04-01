@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>🔥 AgentForge</h1>
+  <img src="assets/agentforge-banner.svg" alt="AgentForge" width="700">
   <br>
   <strong>🔥 Production-Grade Enterprise AI Agent Framework</strong>
   <br>
