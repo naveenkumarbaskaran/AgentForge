@@ -56,10 +56,10 @@ class HistoryWindow:
     def get_full_history(self) -> list[dict[str, str]]:
         """Get full conversation history (for reference/debugging)."""
         messages = []
-        for turn in self._full_history[-self.max_messages:]:
+        for turn in self._full_history:
             messages.append({"role": "user", "content": turn.user})
             messages.append({"role": "assistant", "content": turn.assistant})
-        return messages
+        return messages[-self.max_messages:]
 
     @property
     def turn_count(self) -> int:
