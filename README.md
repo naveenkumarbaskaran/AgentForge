@@ -22,6 +22,18 @@
 
 ---
 
+## 🎬 Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="AgentForge Demo — PEOS agent handling a maintenance order query" width="700">
+  <br>
+  <em>AgentForge handling a real enterprise query: intent → tool selection → execution → formatted response in 3.8s</em>
+</p>
+
+> **To record your own demo:** `pip install agentforge-ai && python examples/maintenance_agent.py`
+
+---
+
 ## 💀 The Problem
 
 You've built a cool demo agent. It works on your laptop. Then reality hits:
@@ -280,8 +292,18 @@ MIT — use it, fork it, profit from it. A ⭐ is all I ask.
 
 ---
 
+## ⭐ Star History
+
+If AgentForge saved you tokens, time, or a production incident — **a star helps others find it.**
+
+[![Star History Chart](https://api.star-history.com/svg?repos=naveenkumarbaskaran/AgentForge&type=Date)](https://star-history.com/#naveenkumarbaskaran/AgentForge&Date)
+
+---
+
 <p align="center">
   <strong>Built with 🔥 by <a href="https://linkedin.com/in/iamnaveenkumarb">Naveen Kumar Baskaran</a></strong>
   <br>
   <em>Senior SAP Developer & AI/ML Engineer @ SAP Labs India | PhD Candidate</em>
+  <br><br>
+  <a href="https://naveenkumarbaskaran.github.io/">🌐 Portfolio</a> · <a href="https://linkedin.com/in/iamnaveenkumarb">💼 LinkedIn</a> · <a href="https://twitter.com/Naveenkbaskaran">🐦 Twitter</a>
 </p>
